@@ -2083,10 +2083,10 @@ css-functions-list@^3.2.1:
   resolved "https://registry.yarnpkg.com/css-functions-list/-/css-functions-list-3.2.1.tgz#2eb205d8ce9f9ce74c5c1d7490b66b77c45ce3ea"
   integrity sha512-Nj5YcaGgBtuUmn1D7oHqPW0c9iui7xsTsj5lIX8ZgevdfhmjFfKB3r8moHJtNJnctnYXJyYX5I1pp90HM4TPgQ==
 
-css-loader@^7.1.0, css-loader@^7.1.3:
-  version "7.1.3"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.3.tgz#c0de715ceabe39b8531a85fcaf6734a430c4d99a"
-  integrity sha512-frbERmjT0UC5lMheWpJmMilnt9GEhbZJN/heUb7/zaJYeIzj5St9HvDcfshzzOqbsS+rYpMk++2SD3vGETDSyA==
+css-loader@^7.1.0, css-loader@^7.1.4:
+  version "7.1.4"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-7.1.4.tgz#8f6bf9f8fc8cbef7d2ef6e80acc6545eaefa90b1"
+  integrity sha512-vv3J9tlOl04WjiMvHQI/9tmIrCxVrj6PFbHemBB1iihpeRbi/I4h033eoFIhwxBBqLhI0KYFS7yvynBFhIZfTw==
   dependencies:
     icss-utils "^5.1.0"
     postcss "^8.4.40"
